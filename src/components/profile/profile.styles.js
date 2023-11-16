@@ -18,7 +18,7 @@ export const ProfileContainer = styled.div`
 
 export const ProfileTitle = styled.h2`
   text-align: center;
-  margin: 40px 0px;
+  margin: 35px 0px;
 `;
 
 export const ProfileItems = styled.ul`
